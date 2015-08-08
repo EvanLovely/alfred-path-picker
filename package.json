@@ -1,0 +1,11 @@
+{
+  "name": "path-picker",
+  "version": "1.0.0",
+  "bin": "lib/cli.js",
+  "dependencies": {
+    "js-yaml": "^3.3.1",
+    "lodash": "^3.10.1",
+    "meow": "^3.3.0",
+    "mustache": "^2.1.3"
+  }
+}
