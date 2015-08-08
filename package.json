@@ -1,7 +1,7 @@
 {
   "name": "alfred-path-picker",
   "description": "",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "bin": "lib/cli.js",
   "scripts": {
     "config": "open ~/.alfred-path-picker.yml",
