@@ -1,8 +1,18 @@
 {
   "name": "alfred-path-picker",
-  "description": "",
+  "description": "Search through paths defined in path files (see below) using Alfred, when selected, they open on the hostname that Chrome is currently on.",
   "version": "1.1.0",
+  "keywords": ["alfred"],
+  "main": "lib/cli.js",
   "bin": "lib/cli.js",
+  "homepage": "https://github.com/EvanLovely/alfred-path-picker#readme",
+  "bugs": "https://github.com/EvanLovely/alfred-path-picker/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EvanLovely/alfred-path-picker.git"
+  },
+  "license": "MIT",
+  "author": "Evan Lovely",
   "scripts": {
     "config": "open ~/.alfred-path-picker.yml",
     "preinstall": "bash lib/setup.sh",
