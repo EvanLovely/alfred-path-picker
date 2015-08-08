@@ -1,6 +1,0 @@
-- name: 2nd All recent content via Workbench
-  path: /admin/workbench/content/all
-- name: 2nd Content Types recent content via Workbench
-  path: '/admin/workbench/content/all?title=&type=article&published=1&items_per_page=25'
-- name: 2nd Performance
-  path: /admin/config/development/performance

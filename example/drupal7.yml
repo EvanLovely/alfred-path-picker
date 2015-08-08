@@ -1,0 +1,24 @@
+- name: Admin Index
+  path: /admin/index
+- name: Performance
+  path: /admin/config/development/performance
+- name: User Login / View
+  path: /user
+- name: Status Report (Logs)
+  path: /admin/reports/status
+- name: Modules
+  path: /admin/modules
+- name: Appearance (Themes)
+  path: /admin/appearance
+- name: Appearance Settings 
+  path: /admin/appearance/settings
+- name: Content Types
+  path: /admin/structure/types
+- name: Features
+  path: /admin/structure/features
+- name: Menus
+  path: /admin/structure/menu
+- name: Panels
+  path: /admin/structure/panels
+- name: Add Content/Node
+  path: /node/add

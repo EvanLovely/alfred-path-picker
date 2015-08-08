@@ -1,0 +1,5 @@
+loadExamples:
+    drupal7: true
+pathFiles:
+    - ~/active-project/_files/settings/paths.yml
+
