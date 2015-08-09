@@ -1,7 +1,7 @@
 {
   "name": "alfred-path-picker",
   "description": "Search through paths defined in path files (see below) using Alfred, when selected, they open on the hostname that Chrome is currently on.",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "keywords": [
     "alfred"
   ],
