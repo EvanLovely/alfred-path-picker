@@ -33,3 +33,7 @@ These files (see some in `example/`) are read and are all the results returned b
 - name: Name of Result
   path: /path/to/page
 ```
+
+# Extra Options
+
+- Hold 'cmd' when selecting to open in a new tab instead
