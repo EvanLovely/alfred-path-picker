@@ -2,4 +2,5 @@ loadExamples:
     drupal7: true
 pathFiles:
     - ~/active-project/_files/settings/paths.yml
-
+hostFiles:
+    - ~/active-project/_files/settings/hosts.yml

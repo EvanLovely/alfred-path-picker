@@ -5,8 +5,11 @@
   "keywords": [
     "alfred"
   ],
-  "main": "lib/cli.js",
-  "bin": "lib/cli.js",
+  "main": "lib/path-picker.js",
+  "bin": {
+    "alfred-path-picker": "lib/path-picker.js",
+    "alfred-host-picker": "lib/host-picker.js"
+  },
   "homepage": "https://github.com/EvanLovely/alfred-path-picker#readme",
   "bugs": "https://github.com/EvanLovely/alfred-path-picker/issues",
   "repository": {

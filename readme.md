@@ -37,3 +37,7 @@ These files (see some in `example/`) are read and are all the results returned b
 # Extra Options
 
 - Hold 'cmd' when selecting to open in a new tab instead
+
+# Hostname Switching
+
+By pointing to files that contain the hostname in `hostFiles` in the config, you can do this same functionality with the first part of the url, the host, and switch between the same page on different domains.
