@@ -22,3 +22,5 @@
   path: /admin/structure/panels
 - name: Add Content/Node
   path: /node/add
+- name: Image Styles
+  path: /admin/config/media/image-styles
