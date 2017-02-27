@@ -17,20 +17,20 @@
 - name: Content Types
   path: /admin/structure/types
 - name: Features
-  path: /admin/structure/features
+  path: /admin/config/development/features
 - name: Menus
   path: /admin/structure/menu
-- name: Panels
-  path: /admin/structure/panels
+- name: Paragraph Types
+  path: /admin/structure/paragraphs_type
 - name: Add Content/Node
   path: /node/add
 - name: Image Styles
   path: /admin/config/media/image-styles
 - name: All Views
   path: /admin/structure/views
-- name: Context
-  path: /admin/structure/context
 - name: Blocks
   path: /admin/structure/block
 - name: Taxonomy
   path: /admin/structure/taxonomy
+- name: View Modes
+  path: /admin/structure/display-modes/view

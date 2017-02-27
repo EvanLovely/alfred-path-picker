@@ -1,5 +1,6 @@
 loadExamples:
-    drupal7: true
+    drupal7: false
+    drupal8: true
 pathFiles:
     - ~/active-project/_files/settings/paths.yml
 hostFiles:
